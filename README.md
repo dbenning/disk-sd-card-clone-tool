@@ -40,4 +40,5 @@ This script reads a full SD card and clones it to a `.img` file.
 
 ### 🔧 Run the script:
 ```python3 create_sd_image.py```
+
 ```python3 write_sd_image.py```
